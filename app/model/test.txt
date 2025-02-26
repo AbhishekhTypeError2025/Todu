@@ -1,0 +1,24 @@
+[
+    {
+    "name": "abhishekh",
+    "email": "abhi12@gmail.com",
+    "password": "12345",
+    "userId": "SG21802",
+    "role": "admin"
+  },
+  {
+    "name": "abhishekh",
+    "email": "abhi121@gmail.com",
+    "password": "12345",
+    "userId": "SG21803",
+    "role": "notAdmin",
+    "isDelete": false
+  },
+  {
+    "name": "abhishekh",
+    "email": "abhi122@gmail.com",
+    "password": "12345",
+    "userId": "SG21804",
+    "role": "notAdmin"
+  }
+]
